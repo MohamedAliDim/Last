@@ -1,0 +1,23 @@
+﻿**********************
+Début de la transcription Windows PowerShell
+Heure de début : 20230816093155
+Nom d'utilisateur : FEV\drim
+Utilisateur runAs :  FEV\drim
+Nom de la configuration : 
+Ordinateur : MAM0133 (Microsoft Windows NT 10.0.19045.0)
+Application hôte : powershell.exe -ex bypass -file C:\WINDOWS\ccmcache\1y\002_install_vsto.ps1
+ID de processus : 20692
+PSVersion: 5.1.19041.3031
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.3031
+BuildVersion: 10.0.19041.3031
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcription démarrée, le fichier de sortie est d:\tmp.txt
+**********************
+Fin de la transcription Windows PowerShell
+Heure de fin : 20230816093155
+**********************
